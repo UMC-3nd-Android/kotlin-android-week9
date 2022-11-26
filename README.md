@@ -40,26 +40,26 @@ git checkout -b <branch명>
 
 made by [wbham](https://github.com/YiBeomSeok)
 
-### ***feature/2-maddy-fragment***
+### ***feature/2-maddy-activity***
 - UMC standard mission week9 내용을 구현한다.
 - 함수 길이가 너무 길어지지 않도록 주의한다.
 
 made by [Maddy](https://github.com/MADElinessss)
 
-### ***feature/3-wbham-fragment***
+### ***feature/3-wbham-activity***
 - UMC standard mission week9 내용을 구현한다.
 - 어떤 fragment A에서 `thread`를 실행하고 그 `thread`가 종료되지 않은 시점에 다른 fragment B로 전환될 때 그 `thread`의 현재 진행 상황을 `Log.d`로 출력한다.
 
 made by [wbham](https://github.com/WooBinHam)
 
-### ***feature/4-Jaeeepp-fragment***
+### ***feature/4-Jaeeepp-activity***
 - UMC standard mission week9 내용을 구현한다.
 - retrofit2 사용시 `Log.d`로 진행 상황을 출력한다.
   - TAG: GET or POST
 
 made by [jaeeepp](https://github.com/Jaeeepp)
 
-### ***feature/5-Arr-fragment***
+### ***feature/5-Arr-activity***
 - UMC standard mission week9 내용을 구현한다.
 - 크기가 큰 데이터를 받아올 수 있다면 `MAP`으로 담고 특정 `key`에 해당하는 `value`를 `Log.d`로 출력 또는 text로 구현한다.
 
