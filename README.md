@@ -38,7 +38,7 @@ git checkout -b <branch명>
 ### ***feature/1-main-activity***
 - `MainActivity`에서 다른 `Activity`로 전환할 수 있도록 구현한다.
 
-made by [wbham](https://github.com/YiBeomSeok)
+made by [bmsk](https://github.com/YiBeomSeok)
 
 ### ***feature/2-maddy-activity***
 - UMC standard mission week9 내용을 구현한다.
