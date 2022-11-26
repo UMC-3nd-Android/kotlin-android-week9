@@ -1,8 +1,9 @@
-# 🌈 Android Study 8주차 목표 🌈
+# 🌈 Android Study week 10 목표 🌈
 made by [bmsk](https://github.com/YiBeomSeok)
 
 ## 🛸 git
-주어진 `feature/1-main-activity`를 clone 후 아래 branch name에 해당하는 branch로 checkout해서 수행하도록 한다.
+- git 사용이 익숙해졌다면 git flow 전략을 참고한다.
+- 주어진 `feature/1-main-activity`를 clone 후 아래 branch name에 해당하는 branch로 checkout해서 수행하도록 한다.
 - 명령어 예시
 ```shell
 git clone --branch feature/1-main-activity <주소>
